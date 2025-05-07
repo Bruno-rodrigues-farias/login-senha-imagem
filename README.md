@@ -45,8 +45,9 @@ Antes de começar, certifique-se de ter instalado:
 
 
 ## Clonar o Projeto
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/Bruno-rodrigues-farias/login-senha-imagem.git
+cd login-senha-imagem
+
 
 ## Rodar o Projeto
 abra o projeto na sua IDE e execute a classe principal (geralmente Application.java)
