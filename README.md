@@ -50,4 +50,4 @@ cd login-senha-imagem
 
 
 ## Rodar o Projeto
-abra o projeto na sua IDE e execute a classe principal (geralmente Application.java)
+abra o projeto na sua IDE e execute a classe principal (ContaBancariaApplication.java)
